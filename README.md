@@ -34,6 +34,3 @@ mandatory exercise list.
 - Docker, Git
 - AWS Free Tier
 
-## 📌 Notes
-Each module folder has its own `README.md` listing exercises solved and how
-to run the code. 
