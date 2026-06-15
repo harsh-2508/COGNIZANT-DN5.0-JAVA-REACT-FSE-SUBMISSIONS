@@ -1,10 +1,10 @@
-# Digital Nurture 5.0 — Java FSE (React) Deep Skilling Submissions
+# DN5.0 — Java FSE (React) Deep Skilling Submissions Repository
 
-Repository for hands-on exercise solutions for Cognizant's **Digital Nurture 5.0
+Repository for hands-on exercise solutions for Cognizant's **DN5.0
 Deep Skilling — Java Full Stack Engineer (React)** program.
 
 ## 👤 Candidate Details
-- **Name:** Harshvardhan
+- **Name:** Harshvardhan Singh Thakur
 - **Program:** Java FSE Deep Skilling — DN 5.0
 - **Deep Skilling Period:** 12 Jun 2026 – 30 Jul 2026 (7 weeks)
 
@@ -20,10 +20,6 @@ Deep Skilling — Java Full Stack Engineer (React)** program.
 | `Week06_17Jul-23Jul_React-Part2-Debugging` | 17–23 Jul | React (Part 2 — mini project), Application Debugging |
 | `Week07_24Jul-30Jul_Platforms-GenAI-Revision` | 24–30 Jul | Git, Docker, Cloud (AWS), Agile, GenAI & Copilot, KBA Revision |
 
-> ⚠️ Adjust dates/folder names if the trainer announces a different
-> week-by-week breakdown. The handbook's suggested durations (e.g. React = 2
-> weeks, Products & Frameworks = 5 weeks) were fit into this exact 12 Jun – 30
-> Jul (7-week) window, with final revision folded into Week 7.
 
 ## ✅ Progress Tracker
 See [`PROGRESS.md`](./PROGRESS.md) for the full checklist — cross-check against
@@ -38,7 +34,3 @@ mandatory exercise list.
 - Docker, Git
 - AWS Free Tier
 
-## 📌 Notes
-Each module folder has its own `README.md` listing exercises solved and how
-to run the code. Commit and push after finishing each week's work — keep the
-history dated so progress is verifiable.

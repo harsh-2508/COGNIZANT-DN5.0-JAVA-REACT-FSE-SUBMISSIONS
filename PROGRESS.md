@@ -1,7 +1,5 @@
 # Hands-On Progress Tracker (12 Jun – 30 Jul 2026)
 
-Update this as you go. Check `[x]` once an exercise is solved AND pushed.
-
 ## Week 1 (12–18 Jun) — Engineering Concepts
 - [ ] SOLID Principles exercises
 - [ ] Creational Patterns (Singleton, Factory, Builder)
