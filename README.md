@@ -1,49 +1,44 @@
 # Digital Nurture 5.0 — Java FSE (React) Deep Skilling Submissions
 
-This repository contains my hands-on exercise solutions for Cognizant's **Digital Nurture 5.0 Deep Skilling — Java Full Stack Engineer (React)** program.
+Repository for hands-on exercise solutions for Cognizant's **Digital Nurture 5.0
+Deep Skilling — Java Full Stack Engineer (React)** program.
 
 ## 👤 Candidate Details
 - **Name:** Harshvardhan
 - **Program:** Java FSE Deep Skilling — DN 5.0
-- **Duration:** 7 Weeks
+- **Deep Skilling Period:** 12 Jun 2026 – 30 Jul 2026 (7 weeks)
 
-## 📁 Repository Structure
+## 📅 Weekly Schedule & Folder Mapping
 
-Each top-level folder corresponds to a module/skill from the official handbook. Inside each folder you'll find the exercise solutions, source code, and a short notes/README explaining the approach.
+| Folder | Dates | Topics Covered |
+|---|---|---|
+| `Week01_12Jun-18Jun_EngineeringConcepts` | 12–18 Jun | Design Patterns & SOLID Principles, Data Structures & Algorithms |
+| `Week02_19Jun-25Jun_ProgrammingLanguages` | 19–25 Jun | PL/SQL, TDD (JUnit5 + Mockito), SLF4J & Lombok |
+| `Week03_26Jun-02Jul_SpringCore-Maven-JPA-Hibernate` | 26 Jun–02 Jul | Spring Core & Maven, Spring Data JPA + Hibernate |
+| `Week04_03Jul-09Jul_SpringREST-SonarQube` | 03–09 Jul | Spring REST (Boot 3), Code Quality & SonarQube |
+| `Week05_10Jul-16Jul_Microservices-React-Part1` | 10–16 Jul | Microservices with Spring Cloud, React (Part 1 — basics) |
+| `Week06_17Jul-23Jul_React-Part2-Debugging` | 17–23 Jul | React (Part 2 — mini project), Application Debugging |
+| `Week07_24Jul-30Jul_Platforms-GenAI-Revision` | 24–30 Jul | Git, Docker, Cloud (AWS), Agile, GenAI & Copilot, KBA Revision |
 
-| Folder | Skill / Module Covered |
-|---|---|
-| `Week1-Engineering-Concepts/Design-Patterns` | SOLID Principles, GoF Design Patterns |
-| `Week1-Engineering-Concepts/DSA` | Arrays, Linked Lists, Sorting, Searching, Complexity Analysis |
-| `Week2-Programming-Languages/PLSQL` | PL/SQL blocks, cursors, procedures, functions, triggers |
-| `Week2-Programming-Languages/TDD-JUnit-Mockito` | TDD cycle, JUnit5, Mockito, unit/integration tests |
-| `Week2-Programming-Languages/SLF4J-Lombok` | Logging framework, Lombok annotations |
-| `Week3-Spring-Core-Maven` | Spring IoC, DI, Bean configuration, AOP, Maven setup |
-| `Week4-Spring-DataJPA-Hibernate` | Entity mapping, repositories, pagination, auditing, projections |
-| `Week5-Spring-REST-SonarQube/REST-API` | REST controllers, DTOs, CRUD, HATEOAS, Security, Swagger |
-| `Week5-Spring-REST-SonarQube/SonarQube-Reports` | Code quality scan reports & screenshots |
-| `Week6-Microservices-SpringCloud` | Eureka, API Gateway, Feign, Circuit Breaker, Config Server |
-| `Week7-React/Day-Exercises` | Components, props/state, JSX, hooks, forms, API calls |
-| `Week7-React/Mini-Project` | End-to-end React mini application |
-| `Week8-Debugging` | Chrome DevTools & VS Code debugging notes/screenshots |
-| `Week9-Git-DevOps-Docker/Git-Exercises` | Branching, merging, remote workflows |
-| `Week9-Git-DevOps-Docker/Docker-Exercises` | Dockerfile, Docker Compose, images, volumes |
-| `Week10-Agile-Cloud-GenAI/Cloud-AWS` | EC2, S3, VPC, RDS, Lambda exercises/notes |
-| `Week10-Agile-Cloud-GenAI/GenAI-Copilot` | Prompt engineering exercises, Copilot usage notes |
+> ⚠️ Adjust dates/folder names if the trainer announces a different
+> week-by-week breakdown. The handbook's suggested durations (e.g. React = 2
+> weeks, Products & Frameworks = 5 weeks) were fit into this exact 12 Jun – 30
+> Jul (7-week) window, with final revision folded into Week 7.
 
-## ✅ Mandatory Hands-On Tracker
-
-See [`PROGRESS.md`](./PROGRESS.md) for a checklist mapped against the official
-`DN - Java FSE Mandatory hands-on detail.xlsx` file.
+## ✅ Progress Tracker
+See [`PROGRESS.md`](./PROGRESS.md) for the full checklist — cross-check against
+the official `DN - Java FSE Mandatory hands-on detail.xlsx` for the exact
+mandatory exercise list.
 
 ## 🛠️ Tech Stack
-- Java 17, Spring Boot 3.x, Spring Data JPA, Hibernate
-- Maven
+- Java 17, Spring Boot 3.x, Spring Data JPA, Hibernate, Maven
 - React (Vite/CRA), JavaScript (ES6+)
-- MySQL / PostgreSQL (as applicable)
+- MySQL / PostgreSQL
 - JUnit5, Mockito
 - Docker, Git
 - AWS Free Tier
 
 ## 📌 Notes
-Each module folder includes its own `README.md` with problem statements solved and how to run the code locally.
+Each module folder has its own `README.md` listing exercises solved and how
+to run the code. Commit and push after finishing each week's work — keep the
+history dated so progress is verifiable.
