@@ -4,7 +4,7 @@ Repository for hands-on exercise solutions for Cognizant's **DN5.0
 Deep Skilling — Java Full Stack Engineer (React)** program.
 
 ## 👤 Candidate Details
-- **Name:** Harshvardhan Singh
+- **Name:** Harshvardhan Singh Thakur
 - **Program:** Java FSE Deep Skilling — DN 5.0
 - **Deep Skilling Period:** 12 Jun 2026 – 30 Jul 2026 (7 weeks)
 
