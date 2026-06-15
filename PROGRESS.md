@@ -5,10 +5,10 @@
 - [ ] Creational Patterns (Singleton, Factory, Builder)
 - [ ] Structural Patterns (Adapter, Decorator, Proxy)
 - [ ] Behavioral Patterns (Observer, Strategy, Command)
-- [x] Arrays — traversal/search exercises
-- [x] Linked List (Single/Double/Circular) implementations
-- [x] Sorting algorithms (Bubble, Insertion, Merge, Quick, Heap)
-- [x] Searching (Linear, Binary)
+- [] Arrays — traversal/search exercises
+- [] Linked List (Single/Double/Circular) implementations
+- [] Sorting algorithms (Bubble, Insertion, Merge, Quick, Heap)
+- [] Searching (Linear, Binary)
 
 ## Week 2 (19–25 Jun) — Programming Languages
 - [ ] PL/SQL — variables, control structures
