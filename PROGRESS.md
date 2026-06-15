@@ -1,16 +1,14 @@
 # Hands-On Progress Tracker (12 Jun – 30 Jul 2026)
 
-Update this as you go. Check `[x]` once an exercise is solved AND pushed.
-
 ## Week 1 (12–18 Jun) — Engineering Concepts
 - [ ] SOLID Principles exercises
 - [ ] Creational Patterns (Singleton, Factory, Builder)
 - [ ] Structural Patterns (Adapter, Decorator, Proxy)
 - [ ] Behavioral Patterns (Observer, Strategy, Command)
-- [ ] Arrays — traversal/search exercises
-- [ ] Linked List (Single/Double/Circular) implementations
-- [ ] Sorting algorithms (Bubble, Insertion, Merge, Quick, Heap)
-- [ ] Searching (Linear, Binary)
+- [x] Arrays — traversal/search exercises
+- [x] Linked List (Single/Double/Circular) implementations
+- [x] Sorting algorithms (Bubble, Insertion, Merge, Quick, Heap)
+- [x] Searching (Linear, Binary)
 
 ## Week 2 (19–25 Jun) — Programming Languages
 - [ ] PL/SQL — variables, control structures
