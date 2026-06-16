@@ -1,4 +1,4 @@
-import java.util.*;
+
 
 public class SingletonTest{
 
@@ -6,8 +6,8 @@ public class SingletonTest{
     Logger logger1=Logger.getInstance();
     Logger logger2=Logger.getInstance();
 
-    logger1.log("Application Started");
-    logger2.log("User logged in");
+    logger1.log("Application Started for the first time");
+    logger2.log("User logged in already");
 
     System.out.println(logger1==logger2);
 
