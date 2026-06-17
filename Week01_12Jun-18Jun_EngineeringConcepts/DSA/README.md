@@ -2,8 +2,8 @@
 **Target dates:** 12–18 Jun 2026
 
 ## 📝 Exercises Solved
-- [ ] Exercise 1 — _description_
-- [ ] Exercise 2 — _description_
+- [x] Exercise 2: E-commerce Platform Search Function
+- [ ] Exercise 7: Financial Forecasting
 
 ## ▶️ How to Run
 ```bash
