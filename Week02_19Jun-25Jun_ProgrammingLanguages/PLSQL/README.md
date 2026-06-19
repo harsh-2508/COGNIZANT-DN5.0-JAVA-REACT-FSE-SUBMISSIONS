@@ -9,23 +9,22 @@
 ## Exercise 1.
 
 # scenario 1.
-<img src="/Exercise_1/scenario1.png" alt="Alt Text" width="500">
+<img src="./Exercise_1/scenario1.png" alt="Alt Text" width="500">
 
 # 📸 Screenshots / Output
-<img src="/Exercise_1//scenario1_solution.png" alt="Alt Text" width="500">
+<img src="./Exercise_1//scenario1_solution.png" alt="Alt Text" width="500">
 
 
 
 
 # scenario 2.
-<img src="/Exercise_1/scenario2.png" alt="Alt Text" width="500">
-
+<img src="./Exercise_1/scenario2.png" alt="Alt Text" width="500">
 
 
 
 
 # scenario 3.
-<img src="/Exercise_1//scenario3.png" alt="Alt Text" width="500">
+<img src="./Exercise_1//scenario3.png" alt="Alt Text" width="500">
 
 
 
