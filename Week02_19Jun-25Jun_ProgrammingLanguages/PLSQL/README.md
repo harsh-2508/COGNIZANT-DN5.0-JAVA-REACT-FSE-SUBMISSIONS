@@ -2,16 +2,33 @@
 **Target dates:** 19–25 Jun 2026
 
 ## 📝 Exercises Solved
-- [ ] Exercise 1 — _description_
-- [ ] Exercise 2 — _description_
+- [x] Exercise 1 — Exercise 1: Control Structures
+- [ ] Exercise 2 — Exercise 3: Stored Procedures
 
-## ▶️ How to Run
-```bash
-# add run instructions here
-```
+## code:
+## Exercise 1.
 
-## 🔑 Key Concepts Practiced
-- 
+# scenario 1.
+<img src="/Exercise_1/scenario1.png" alt="Alt Text" width="500">
 
-## 📸 Screenshots / Output (if applicable)
+# 📸 Screenshots / Output
+<img src="/Exercise_1//scenario1_solution.png" alt="Alt Text" width="500">
+
+
+
+
+# scenario 2.
+<img src="/Exercise_1/scenario2.png" alt="Alt Text" width="500">
+
+
+
+
+
+# scenario 3.
+<img src="/Exercise_1//scenario3.png" alt="Alt Text" width="500">
+
+
+
+
+
 
