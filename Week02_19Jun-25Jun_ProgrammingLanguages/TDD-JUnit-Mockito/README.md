@@ -2,16 +2,16 @@
 **Target dates:** 19–25 Jun 2026
 
 ## 📝 Exercises Solved
-- [ ] Exercise 1 — _description_
-- [ ] Exercise 2 — _description_
+- [x] Exercise 1: Setting Up JUnit
+- [x] Exercise 2: Writing Basic JUnit Tests
+- [x] Exercise 3: Assertions in JUnit
+- [x] Exercise 4: Arrange-Act-Assert (AAA) Pattern, Test Fixtures, Setup and Teardown Methods in JUnit
 
-## ▶️ How to Run
-```bash
-# add run instructions here
-```
 
-## 🔑 Key Concepts Practiced
-- 
 
-## 📸 Screenshots / Output (if applicable)
+
+
+## 📸 Screenshots / Output:
+
+<img src='./output.png'>
 
