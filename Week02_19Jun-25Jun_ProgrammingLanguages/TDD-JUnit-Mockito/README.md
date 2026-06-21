@@ -15,7 +15,7 @@
 - [x] Exercise 1: Mocking and Stubbing
 - [x] Exercise 2: Verifying Interactions
 # SL4J
-- [] Exercise 1: Logging Error Messages and Warning Levels
+- [x] Exercise 1: Logging Error Messages and Warning Levels
 
 
 
@@ -36,3 +36,5 @@ exercise 2
 
 
 # SL4J
+Exercise 1 
+<img src='./SLF4J/output_SLF4J_Exercise1.png'>
