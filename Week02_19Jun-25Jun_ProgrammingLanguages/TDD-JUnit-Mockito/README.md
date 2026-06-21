@@ -27,4 +27,4 @@
 <img src='./junit/JUnitExample/output_junit.png'>
 
 # mockito
-<img src='./mockito/MockitoExample/output_mockito.png>
+<img src='./mockito/MockitoExample/output_mockito.png'>
