@@ -12,8 +12,8 @@
 - [x] Exercise 4: Arrange-Act-Assert (AAA) Pattern, Test Fixtures, Setup and Teardown Methods in JUnit
 
 # mockito
-- [] Exercise 1: Mocking and Stubbing
-- [] Exercise 2: Verifying Interactions
+- [x] Exercise 1: Mocking and Stubbing
+- [x] Exercise 2: Verifying Interactions
 # SL4J
 - [] Exercise 1: Logging Error Messages and Warning Levels
 
@@ -23,8 +23,16 @@
 
 ## 📸 Screenshots / Output:
 
-# junit
+# junit-exercise 1,3,4
 <img src='./junit/JUnitExample/output_junit.png'>
 
 # mockito
-<img src='./mockito/MockitoExample/output_mockito.png'>
+exercise 1
+<img src='./mockito/MockitoExample/output_mockito_exercise1.png'>
+
+
+exercise 2
+<img src='./mockito/MockitoExample/output_mockito_exercise2.png'>
+
+
+# SL4J
