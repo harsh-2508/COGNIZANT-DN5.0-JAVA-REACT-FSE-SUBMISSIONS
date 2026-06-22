@@ -2,16 +2,15 @@
 **Target dates:** 19–25 Jun 2026
 
 ## 📝 Exercises Solved
-- [ ] Exercise 1 — _description_
-- [ ] Exercise 2 — _description_
+# SL4J
+- [x] Exercise 1: Logging Error Messages and Warning Levels
 
-## ▶️ How to Run
-```bash
-# add run instructions here
-```
 
-## 🔑 Key Concepts Practiced
-- 
 
-## 📸 Screenshots / Output (if applicable)
+
+##  Screenshots / Output 
+
+# SL4J
+Exercise 1 
+<img src='./SLF4J/output_SLF4J_Exercise1.png'>
 
