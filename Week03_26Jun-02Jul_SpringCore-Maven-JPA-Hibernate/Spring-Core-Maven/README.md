@@ -4,7 +4,7 @@
 ## 📝 Exercises Solved
 - [x] Exercise 1: Configuring a Basic Spring Application
 - [x] Exercise 2: Implementing Dependency Injection
-- [ ] Exercise 4: Creating and Configuring a Maven Project
+- [x] Exercise 4: Creating and Configuring a Maven Project
 
 
 ## 📸 Screenshots / Output (if applicable)
@@ -15,5 +15,3 @@ Exercise 1:
 Exercise 2:
   <img src="./Exercise_2/LibraryManagement/Exercise2.png">
 
-Exercise 4:
-  <img src="">
