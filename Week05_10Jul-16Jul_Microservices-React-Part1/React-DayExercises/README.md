@@ -98,5 +98,109 @@ The **Virtual DOM** is a lightweight copy of the Real DOM.
 ---
 
 ## ReactJS_HOL_2 Hands-On
+<img src="./reactjs_hol_2/studentapp/public/ReactJS_HOL_2.png" alt="ReactJS_HOL_2 Output" width="700">
 
-<img src="./reactjs_hol_2/public/ReactJS_HOL_2.png" alt="ReactJS_HOL_2 Output" width="700">
+# Theory Questions & Answers
+
+## 1. What is a React Component?
+
+A **React Component** is a reusable piece of UI that returns JSX and can be used multiple times in an application.
+
+### Example
+
+```jsx
+function Home() {
+    return <h1>Home</h1>;
+}
+```
+
+---
+
+## 2. Difference Between React Components and JavaScript Functions
+
+| React Component | JavaScript Function |
+|-----------------|---------------------|
+| Returns JSX | Returns any value |
+| Used to build UI | Used for general programming logic |
+| First letter is uppercase | Any naming convention |
+| Rendered using `<Component />` | Called using `functionName()` |
+
+---
+
+## 3. Types of Components
+
+React provides two types of components:
+
+- Function Components
+- Class Components
+
+---
+
+## 4. Function Component
+
+A **Function Component** is a JavaScript function that returns JSX.
+
+### Example
+
+```jsx
+function Home() {
+    return <h1>Home</h1>;
+}
+```
+
+---
+
+## 5. Class Component
+
+A **Class Component** extends `React.Component` and must implement the `render()` method.
+
+### Example
+
+```jsx
+import React, { Component } from "react";
+
+class Home extends Component {
+    render() {
+        return <h1>Home</h1>;
+    }
+}
+export default Home;
+```
+
+---
+
+## 6. Component Constructor
+
+A **constructor** initializes the state and binds methods in a class component.
+
+### Example
+
+```jsx
+constructor(props) {
+    super(props);
+}
+```
+
+---
+
+## 7. render() Function
+
+The **render()** method returns the JSX that will be displayed on the screen.
+
+### Example
+
+```jsx
+render() {
+    return <h1>Hello React</h1>;
+}
+```
+
+---
+
+# Output
+
+The application displays the following components:
+
+- Welcome to the Home page of Student Management Portal
+- Welcome to the About page of Student Management Portal
+- Welcome to the Contact page of Student Management Portal
