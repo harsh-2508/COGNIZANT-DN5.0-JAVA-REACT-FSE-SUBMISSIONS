@@ -3,15 +3,16 @@
 ## 📝 Exercises Solved
 
 - [x] ReactJS_HOL_1 Hands-On
-- [ ] ReactJS_HOL_2 Hands-On
+- [x] ReactJS_HOL_2 Hands-On
 - [ ] ReactJS_HOL_3 Hands-On
 - [ ] ReactJS_HOL_4 Hands-On
 - [ ] ReactJS_HOL_5 Hands-On
-- [ ] ReactJS_HOL_6 Hands-On
-- [ ] ReactJS_HOL_7 Hands-On
-- [ ] ReactJS_HOL_8 Hands-On
+
 - [ ] ReactJS_HOL_9 Hands-On
 - [ ] ReactJS_HOL_10 Hands-On
+- [ ] ReactJS_HOL_11 Hands-On
+- [ ] ReactJS_HOL_12 Hands-On
+- [ ] ReactJS_HOL_13 Hands-On
 
 ---
 
@@ -98,7 +99,7 @@ The **Virtual DOM** is a lightweight copy of the Real DOM.
 ---
 
 ## ReactJS_HOL_2 Hands-On
-<img src="./reactjs_hol_2/studentapp/public/ReactJS_HOL_2.png" alt="ReactJS_HOL_2 Output" width="700">
+<img src="./reactjs_hol_2/ReactJS_HOL_2.png" alt="ReactJS_HOL_2 Output" width="700">
 
 # Theory Questions & Answers
 
@@ -204,3 +205,9 @@ The application displays the following components:
 - Welcome to the Home page of Student Management Portal
 - Welcome to the About page of Student Management Portal
 - Welcome to the Contact page of Student Management Portal
+
+
+## ReactJS_HOL_2 Hands-On
+<img src="./reactjs_hol_3/ReactJS_HOL_3.png" alt="ReactJS_HOL_2 Output" width="700">
+
+
