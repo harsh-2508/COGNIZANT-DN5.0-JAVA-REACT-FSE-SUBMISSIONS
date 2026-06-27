@@ -4,8 +4,8 @@
 
 - [x] ReactJS_HOL_1 Hands-On
 - [x] ReactJS_HOL_2 Hands-On
-- [ ] ReactJS_HOL_3 Hands-On
-- [ ] ReactJS_HOL_4 Hands-On
+- [x] ReactJS_HOL_3 Hands-On
+- [x] ReactJS_HOL_4 Hands-On
 - [ ] ReactJS_HOL_5 Hands-On
 
 - [ ] ReactJS_HOL_9 Hands-On
@@ -207,7 +207,13 @@ The application displays the following components:
 - Welcome to the Contact page of Student Management Portal
 
 
-## ReactJS_HOL_2 Hands-On
-<img src="./reactjs_hol_3/ReactJS_HOL_3.png" alt="ReactJS_HOL_2 Output" width="700">
+## ReactJS_HOL_3 Hands-On
+<img src="./reactjs_hol_3/ReactJS_HOL_3.png" alt="ReactJS_HOL_3 Output" width="700">
+
+## ReactJS_HOL_4 Hands-On
+<img src="./reactjs_hol_4/ReactJS_HOL_4.png" alt="ReactJS_HOL_4 Output" width="700">
 
 
+
+## ReactJS_HOL_5 Hands-On
+<img src="./reactjs_hol_5/ReactJS_HOL_5.png" alt="ReactJS_HOL_5 Output" width="700">
