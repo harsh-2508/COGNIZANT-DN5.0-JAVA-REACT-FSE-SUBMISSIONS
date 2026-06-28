@@ -221,4 +221,9 @@ The application displays the following components:
 
 ## ReactJS_HOL_9 Hands-On
 <img src="./reactjs_hol_9/ReactJS_HOL_9.png" alt="ReactJS_HOL_9 Output" width="700">
+<img src="./reactjs_hol_9/ReactJS_HOL_9a.png" alt="ReactJS_HOL_9 Output" width="700">
+
+
+## ReactJS_HOL_10 Hands-On
+<img src="./reactjs_hol_10/ReactJS_HOL_10.png" alt="ReactJS_HOL_10 Output" width="700">
 
