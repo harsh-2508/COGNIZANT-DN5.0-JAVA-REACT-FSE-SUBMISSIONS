@@ -217,3 +217,8 @@ The application displays the following components:
 
 ## ReactJS_HOL_5 Hands-On
 <img src="./reactjs_hol_5/ReactJS_HOL_5.png" alt="ReactJS_HOL_5 Output" width="700">
+
+
+## ReactJS_HOL_9 Hands-On
+<img src="./reactjs_hol_9/ReactJS_HOL_9.png" alt="ReactJS_HOL_9 Output" width="700">
+
