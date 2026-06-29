@@ -8,8 +8,8 @@
 - [x] ReactJS_HOL_4 Hands-On
 - [ ] ReactJS_HOL_5 Hands-On
 
-- [ ] ReactJS_HOL_9 Hands-On
-- [ ] ReactJS_HOL_10 Hands-On
+- [x] ReactJS_HOL_9 Hands-On
+- [x] ReactJS_HOL_10 Hands-On
 - [ ] ReactJS_HOL_11 Hands-On
 - [ ] ReactJS_HOL_12 Hands-On
 - [ ] ReactJS_HOL_13 Hands-On
@@ -227,3 +227,5 @@ The application displays the following components:
 ## ReactJS_HOL_10 Hands-On
 <img src="./reactjs_hol_10/ReactJS_HOL_10.png" alt="ReactJS_HOL_10 Output" width="700">
 
+## ReactJS_HOL_11 Hands-On
+<img src="./reactjs_hol_11/ReactJS_HOL_11.png" alt="ReactJS_HOL_11 Output" width="700">
