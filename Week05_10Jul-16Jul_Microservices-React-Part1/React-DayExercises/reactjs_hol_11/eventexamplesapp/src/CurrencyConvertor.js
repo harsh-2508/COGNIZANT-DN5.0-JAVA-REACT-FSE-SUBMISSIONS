@@ -3,26 +3,17 @@ import React, { Component } from "react";
 class CurrencyConvertor extends Component {
 
     constructor(props) {
-
         super(props);
-
         this.state = {
-
             amount: "",
             currency: ""
-
         };
-
     }
 
     handleAmount = (event) => {
-
         this.setState({
-
             amount: event.target.value
-
         });
-
     }
 
     handleCurrency = (event) => {
