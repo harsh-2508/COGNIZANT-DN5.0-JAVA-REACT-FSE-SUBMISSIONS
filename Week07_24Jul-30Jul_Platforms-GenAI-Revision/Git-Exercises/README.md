@@ -40,6 +40,8 @@
 <img src="./Git-HOL_4/git1f.png" width="700">
 
 ### GIT_HOL_5
-<img src="./Git-HOL_5/git1.png" width="700">
+<img src="./Git-HOL_5/Screenshot 2026-07-01 at 11.16.01 PM.png" width="700">
+<img src="./Git-HOL_5/Screenshot 2026-07-01 at 11.16.15 PM.png" width="700">
+
 
 
