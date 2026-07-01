@@ -6,7 +6,7 @@
 ## 📝 Exercises Solved
 - [x] 1. Git-HOL
 - [x] 2. Git-HOL
-- [ ] 3. Git-HOL
+- [x] 3. Git-HOL
 - [ ] 4. Git-HOL
 - [ ] 5. Git-HOL
 
@@ -29,4 +29,17 @@
 <img src="./Git-HOL_3/git1.png" width="700">
 <img src="./Git-HOL_3/git1a.png" width="700">
 <img src="./Git-HOL_3/git1b.png" width="700">
+
+### GIT_HOL_4
+<img src="./Git-HOL_4/git1.png" width="700">
+<img src="./Git-HOL_4/git1a.png" width="700">
+<img src="./Git-HOL_4/git1b.png" width="700">
+<img src="./Git-HOL_4/git1c.png" width="700">
+<img src="./Git-HOL_4/git1d.png" width="700">
+<img src="./Git-HOL_4/git1e.png" width="700">
+<img src="./Git-HOL_4/git1f.png" width="700">
+
+### GIT_HOL_5
+<img src="./Git-HOL_5/git1.png" width="700">
+
 
