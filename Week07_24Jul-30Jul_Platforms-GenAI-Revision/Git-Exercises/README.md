@@ -27,3 +27,6 @@
 
 ### GIT_HOL_3
 <img src="./Git-HOL_3/git1.png" width="700">
+<img src="./Git-HOL_3/git1a.png" width="700">
+<img src="./Git-HOL_3/git1b.png" width="700">
+
