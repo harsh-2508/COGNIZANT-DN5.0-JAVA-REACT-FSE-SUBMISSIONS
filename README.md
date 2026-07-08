@@ -21,10 +21,6 @@ Deep Skilling — Java Full Stack Engineer (React)** program.
 | `Week07_24Jul-30Jul_Platforms-GenAI-Revision` | 24–30 Jul | Git, Docker, Cloud (AWS), Agile, GenAI & Copilot, KBA Revision |
 
 
-## ✅ Progress Tracker
-See [`PROGRESS.md`](./PROGRESS.md) for the full checklist — cross-check against
-the official `DN - Java FSE Mandatory hands-on detail.xlsx` for the exact
-mandatory exercise list.
 
 ## 🛠️ Tech Stack
 - Java 17, Spring Boot 3.x, Spring Data JPA, Hibernate, Maven
