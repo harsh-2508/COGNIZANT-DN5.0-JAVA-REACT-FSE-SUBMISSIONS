@@ -6,7 +6,7 @@
 - [x] 2. spring-rest-handson ->Hello World RESTful Web Service
 - [x] 2. spring-rest-handson ->REST - Country Web Service
 - [x] 2. spring-rest-handson ->REST - Get country based on country code
-- [ ] 5. JWT-handson -> Create authentication service that returns JWT
+- [x] 5. JWT-handson -> Create authentication service that returns JWT
 
 ## 📸 Screenshots / Output (if applicable)
 
@@ -39,3 +39,10 @@
 <img src="./Exercise_5/Screenshot 2026-07-10 at 11.43.49 AM.png">
 <img src="./Exercise_5/Screenshot 2026-07-10 at 11.44.04 AM.png">
 <img src="./Exercise_5/Screenshot 2026-07-10 at 11.44.15 AM.png">
+
+### Exercise_6 --->  5. JWT-handson -> Create authentication service that returns JWT
+
+<img src="./Exercise_6/Screenshot 2026-07-12 at 4.24.55 PM.png">
+<img src="./Exercise_6/Screenshot 2026-07-12 at 4.25.18 PM.png">
+<img src="./Exercise_6/Screenshot 2026-07-12 at 4.26.04 PM.png">
+<img src="./Exercise_6/Screenshot 2026-07-12 at 4.26.29 PM.png">
