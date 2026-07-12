@@ -7,8 +7,8 @@
 - [x] 1. Git-HOL
 - [x] 2. Git-HOL
 - [x] 3. Git-HOL
-- [ ] 4. Git-HOL
-- [ ] 5. Git-HOL
+- [x] 4. Git-HOL
+- [x] 5. Git-HOL
 
 
 
