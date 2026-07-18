@@ -14,6 +14,6 @@
 ### Exercise 1
 
   <img src="./Screenshot 2026-07-18 at 10.30.13 AM.png">
-  <img src="./Screenshot 2026-07-18 at 10.30.24 AM.png">
-  <img src="./Screenshot 2026-07-18 at 10.30.32 AM.png">
+  <img src="./Screenshot 2026-07-18 at 10.30.28 AM.png">
+  <img src="./Screenshot 2026-07-18 at 10.30.40 AM.png">
 
